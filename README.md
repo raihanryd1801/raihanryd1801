@@ -3,7 +3,7 @@
 ## 💻 About Me
 - 🚀 Currently working on **PT. Dankom Mitra Abadi** (Network Operation Center)
 - 🌱 Currently learning **Laravel & Network Automation**
-- ⚡ Interested in **Backend Development** and **Network Engineering**
+- ⚡ Interested in **Backend Development** and **System Administrator**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/) | [Email](mailto:youremail@example.com)
 
 ---
