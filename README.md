@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Raihan Riyady 👋
 
-<!--
-**raihanryd1801/raihanryd1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🚀 Currently working on **Flamingo Project** (FirewallD & VoIP Monitoring System)
+- 🌱 Currently learning **Laravel & Network Automation**
+- ⚡ Interested in **Backend Development** and **Network Engineering**
+- 📫 Reach me on [LinkedIn](https://linkedin.com/) | [Email](mailto:youremail@example.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Raihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raihanryd1801&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanryd1801&layout=compact&theme=radical)
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** PHP, JavaScript, SQL  
+- **Frameworks:** Laravel, Bootstrap, TailwindCSS  
+- **Databases:** MySQL, MariaDB  
+- **Tools:** Git, Linux, Docker, Proxmox  
+
+---
+
+⭐️ From [raihanryd1801](https://github.com/raihanryd1801)
