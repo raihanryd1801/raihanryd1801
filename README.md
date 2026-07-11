@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats
 
-![Raihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raihanryd1801&show_icons=true&theme=radical)
+![Raihan's GitHub Stats](https://DOMAIN-ABANG.vercel.app/api?username=raihanryd1801&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanryd1801&layout=compact&theme=radical)
 
