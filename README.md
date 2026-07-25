@@ -43,15 +43,7 @@ Currently focusing on:
 
 <div align="center">
 
-![Stats](stats.svg)
-
-<br>
-
-![Streak](streak.svg)
-
-<br>
-
-![Top Langs](langs.svg)
+![GitHub Stats](metrics.svg)
 
 </div>
 
