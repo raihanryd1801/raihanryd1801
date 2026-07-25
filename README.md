@@ -43,9 +43,9 @@ Currently focusing on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raihanryd1801&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=raihanryd&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=raihanryd1801&hide_border=true&theme=tokyonight" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=raihanryd&hide_border=true&theme=tokyonight" width="48%" />
 
 </div>
 
@@ -53,11 +53,9 @@ Currently focusing on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanryd1801&layout=donut&hide_border=true&theme=tokyonight&count_private=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanryd&layout=donut&hide_border=true&theme=tokyonight&count_private=true" width="45%" />
 
 </div>
-
----
 
 ## 🚀 Currently Learning
 
