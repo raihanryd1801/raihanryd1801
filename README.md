@@ -10,13 +10,17 @@
 
 ## 📊 GitHub Stats
 
-![Raihan's GitHub Stats](https://DOMAIN-ABANG.vercel.app/api?username=raihanryd1801&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanryd1801&layout=compact&theme=radical)
+<p align="center">
+<a href="https://github.com/raihanryd1801">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihanryd1801&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raihanryd1801&layout=compact&theme=radical"/>
+</a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
+
 - **Languages:** PHP, JavaScript, SQL  
 - **Frameworks:** Laravel, Bootstrap, TailwindCSS  
 - **Databases:** MySQL, MariaDB  
