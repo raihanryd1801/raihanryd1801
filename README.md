@@ -42,9 +42,25 @@ Currently focusing on:
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihanryd1801&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raihanryd1801&layout=compact&theme=radical&hide_border=true" width="40%" />
-<img src="https://ghstats.dev/api/card?username=raihanryd1801&theme=tokyonight"width="50%" />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihanryd1801&show_icons=true&theme=radical&hide_border=true"
+    width="48%"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raihanryd1801&layout=compact&theme=radical&hide_border=true"
+    width="48%"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=raihanryd1801&theme=tokyonight"
+    width="70%"
+    alt="GitHub Activity"
+  />
 </p>
 
 ---
