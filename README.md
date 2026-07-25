@@ -58,18 +58,6 @@ Currently focusing on:
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=raihanryd1801&theme=radical&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=raihanryd1801&theme=radical&no-frame=true&row=2&column=4" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raihanryd1801/raihanryd1801/output/github-contribution-grid-snake.svg" />
-</p>
----
 
 ## 🚀 Currently Learning
 
