@@ -43,15 +43,15 @@ Currently focusing on:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raihanryd1801&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
+![Stats](stats.svg)
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=raihanryd1801&hide_border=true&theme=tokyonight)
+![Streak](streak.svg)
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanryd1801&layout=donut&hide_border=true&theme=tokyonight)
+![Top Langs](langs.svg)
 
 </div>
 
