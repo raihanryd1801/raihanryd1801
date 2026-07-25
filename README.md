@@ -39,13 +39,13 @@ Currently focusing on:
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Analytics
 
-<div align="center">
-
-![GitHub Stats](metrics.svg)
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihanryd1801&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raihanryd1801&layout=compact&theme=radical&hide_border=true" width="40%" />
+<img src="https://ghstats.dev/api/card?username=raihanryd1801&theme=tokyonight"width="50%" />
+</p>
 
 ---
 
@@ -60,9 +60,9 @@ Currently focusing on:
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/](https://www.linkedin.com/in/muhammad-raihan-riyady-660a26210/
+LinkedIn: https://linkedin.com/
 
-Email: abualiraihan1801@gmail.com
+Email: youremail@example.com
 
 
 ---
