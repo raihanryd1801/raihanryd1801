@@ -46,10 +46,29 @@ Currently focusing on:
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raihanryd1801&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+## 📈 Contribution Graph
+
 <p align="center">
-  <img width="75%" src="https://ghstats.dev/api/card?username=raihanryd1801&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=raihanryd1801&theme=tokyo-night&hide_border=true" />
 </p>
 
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=raihanryd1801&theme=radical&hide_border=true" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=raihanryd1801&theme=radical&no-frame=true&row=2&column=4" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raihanryd1801/raihanryd1801/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 ## 🚀 Currently Learning
