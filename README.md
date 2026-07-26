@@ -70,9 +70,9 @@ Currently focusing on:
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/
+LinkedIn: https://www.linkedin.com/in/muhammad-raihan-riyady-660a26210/
 
-Email: youremail@example.com
+Email: abualiraihan1801@gmail.com
 
 
 ---
